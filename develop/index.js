@@ -70,9 +70,9 @@ function writeToFile(fileName, data) {
 const init = () => {
   inquirer.prompt(questions).then((userInput) => {
     writeToFile("README.md", generateMarkdown(userInput));
-
   });
 };
+
 
 // Function call to initialize app
 init();
