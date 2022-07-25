@@ -18,4 +18,5 @@ Because this application won’t be deployed, you’ll also need to provide a li
 
 
 ### Walkthrough Video: 
+![Untitled_ Jul 24, 2022 10_47 PM](https://user-images.githubusercontent.com/104739343/180685355-0e16e32c-4314-45b5-9373-f6fff819cb17.gif)
 
